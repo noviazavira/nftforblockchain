@@ -12,3 +12,4 @@
 - 0xnovia1 (3).jpg
 - 0xnovia1 (4).jpg
 - 0xnovia1 (5).jpg
+- 0xnovia2 (1).jpg
