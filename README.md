@@ -1,5 +1,4 @@
 # MY NFT FOR BLOCKCHAIN PROFILES
-
 - 0xnovia (1).jpg
 - 0xnovia (2).jpg
 - 0xnovia (3).jpg
